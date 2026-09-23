@@ -1,20 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="01548282-9a43-4c96-bff0-0626de522374" name="Changes" comment="" />
+    <list default="true" id="01548282-9a43-4c96-bff0-0626de522374" name="Changes" comment="initial repository">
+      <change afterPath="$PROJECT_DIR$/Day1/celsius_to_fahrenheit.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/rpeyyety-luffy/semester1.git",
+    "accountId": "d220e94d-7b2c-43a0-9e26-848ea52e8033"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000098994808" />
+      <entry key="MS500" value="1.025068161448515" />
+      <entry key="S2" value="1.3979061218168463" />
+      <entry key="S5" value="1.6919482981158032" />
+      <entry key="S10" value="1.871282407854422" />
+      <entry key="S30" value="3.2694311448699547" />
+      <entry key="S60" value="5.604173140459587" />
+      <entry key="M2" value="8.57796598858204" />
+      <entry key="M5" value="12.085014658237492" />
+      <entry key="M10" value="13.823304079306872" />
+      <entry key="M15" value="14.493973272725638" />
+      <entry key="M30" value="15.217785418952364" />
+      <entry key="H1" value="15.601241888042821" />
+      <entry key="H2" value="15.798662400945759" />
+      <entry key="H4" value="15.898835703355639" />
+      <entry key="D1" value="15.983069961108608" />
+      <entry key="W1" value="15.997579718703442" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9265880620036029" />
+      <entry key="MS500" value="0.9951180933220503" />
+      <entry key="S2" value="1.3143936820322588" />
+      <entry key="S5" value="1.631260657215061" />
+      <entry key="S10" value="1.8341424295897768" />
+      <entry key="S30" value="3.254349469399705" />
+      <entry key="S60" value="5.594644598613545" />
+      <entry key="M2" value="8.571785366100494" />
+      <entry key="M5" value="12.081911769058962" />
+      <entry key="M10" value="13.821608416224068" />
+      <entry key="M15" value="14.492807103771085" />
+      <entry key="M30" value="15.217183459321925" />
+      <entry key="H1" value="15.600935990355579" />
+      <entry key="H2" value="15.798508196891516" />
+      <entry key="H4" value="15.89875828425288" />
+      <entry key="D1" value="15.983057013606128" />
+      <entry key="W1" value="15.997577867971202" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0,
   "fromUser": false
 }]]></component>
   <component name="ProjectId" id="3JjeWGaM5wLIJrjdkLvPEqjVdyV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,12 +102,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.celsius_to_fahrenheit.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -45,11 +132,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1790178934217</updated>
-      <workItem from="1790178935227" duration="1000" />
+      <workItem from="1790178935227" duration="374000" />
     </task>
+    <task id="LOCAL-00001" summary="initial repository">
+      <option name="closed" value="true" />
+      <created>1790179184442</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790179184442</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial repository" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial repository" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
