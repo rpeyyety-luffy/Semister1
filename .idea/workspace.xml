@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01548282-9a43-4c96-bff0-0626de522374" name="Changes" comment="initial repository">
-      <change afterPath="$PROJECT_DIR$/Day1/celsius_to_fahrenheit.py" afterDir="false" />
+    <list default="true" id="01548282-9a43-4c96-bff0-0626de522374" name="Changes" comment="changed the file">
+      <change beforePath="$PROJECT_DIR$/Day1/celsius_to_fahrenheit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/celsius_to_fahrenheit.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "rpeyyety-luffy"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/rpeyyety-luffy/semester1.git",
@@ -30,23 +36,23 @@
 }]]></component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000098994808" />
-      <entry key="MS500" value="1.025068161448515" />
-      <entry key="S2" value="1.3979061218168463" />
-      <entry key="S5" value="1.6919482981158032" />
-      <entry key="S10" value="1.871282407854422" />
-      <entry key="S30" value="3.2694311448699547" />
-      <entry key="S60" value="5.604173140459587" />
-      <entry key="M2" value="8.57796598858204" />
-      <entry key="M5" value="12.085014658237492" />
-      <entry key="M10" value="13.823304079306872" />
-      <entry key="M15" value="14.493973272725638" />
-      <entry key="M30" value="15.217785418952364" />
-      <entry key="H1" value="15.601241888042821" />
-      <entry key="H2" value="15.798662400945759" />
-      <entry key="H4" value="15.898835703355639" />
-      <entry key="D1" value="15.983069961108608" />
-      <entry key="W1" value="15.997579718703442" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000003097105" />
+      <entry key="S10" value="1.0000394786031641" />
+      <entry key="S30" value="1.1274122248347462" />
+      <entry key="S60" value="2.2332774728854288" />
+      <entry key="M2" value="5.4586515315531114" />
+      <entry key="M5" value="11.591839639149526" />
+      <entry key="M10" value="15.455802664008592" />
+      <entry key="M15" value="17.08238521078071" />
+      <entry key="M30" value="18.92003996911579" />
+      <entry key="H1" value="19.927589252179104" />
+      <entry key="H2" value="20.45540092428278" />
+      <entry key="H4" value="20.725565076524823" />
+      <entry key="D1" value="20.953961069752317" />
+      <entry key="W1" value="20.993415626444577" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -68,23 +74,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9265880620036029" />
-      <entry key="MS500" value="0.9951180933220503" />
-      <entry key="S2" value="1.3143936820322588" />
-      <entry key="S5" value="1.631260657215061" />
-      <entry key="S10" value="1.8341424295897768" />
-      <entry key="S30" value="3.254349469399705" />
-      <entry key="S60" value="5.594644598613545" />
-      <entry key="M2" value="8.571785366100494" />
-      <entry key="M5" value="12.081911769058962" />
-      <entry key="M10" value="13.821608416224068" />
-      <entry key="M15" value="14.492807103771085" />
-      <entry key="M30" value="15.217183459321925" />
-      <entry key="H1" value="15.600935990355579" />
-      <entry key="H2" value="15.798508196891516" />
-      <entry key="H4" value="15.89875828425288" />
-      <entry key="D1" value="15.983057013606128" />
-      <entry key="W1" value="15.997577867971202" />
+      <entry key="MS100" value="3.4096897524176616E-5" />
+      <entry key="MS500" value="0.12780356632624026" />
+      <entry key="S2" value="0.597909898388062" />
+      <entry key="S5" value="0.8140560296859204" />
+      <entry key="S10" value="0.9022899058533871" />
+      <entry key="S30" value="1.0934890216456232" />
+      <entry key="S60" value="2.2151316678686492" />
+      <entry key="M2" value="5.447961367224101" />
+      <entry key="M5" value="11.586369949936575" />
+      <entry key="M10" value="15.452706219349984" />
+      <entry key="M15" value="17.0802215404744" />
+      <entry key="M30" value="18.918902704595258" />
+      <entry key="H1" value="19.927005576918972" />
+      <entry key="H2" value="20.455105167339642" />
+      <entry key="H4" value="20.725416197719703" />
+      <entry key="D1" value="20.9539361159097" />
+      <entry key="W1" value="20.99341205814065" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -132,7 +138,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1790178934217</updated>
-      <workItem from="1790178935227" duration="374000" />
+      <workItem from="1790178935227" duration="645000" />
     </task>
     <task id="LOCAL-00001" summary="initial repository">
       <option name="closed" value="true" />
@@ -142,7 +148,23 @@
       <option name="project" value="LOCAL" />
       <updated>1790179184442</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added new file">
+      <option name="closed" value="true" />
+      <created>1790179322821</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1790179322821</updated>
+    </task>
+    <task id="LOCAL-00003" summary="changed the file">
+      <option name="closed" value="true" />
+      <created>1790179408501</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1790179408501</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,7 +183,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial repository" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial repository" />
+    <MESSAGE value="added new file" />
+    <MESSAGE value="changed the file" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed the file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -173,5 +197,8 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Sem1$celsius_to_fahrenheit.coverage" NAME="celsius_to_fahrenheit Coverage Results" MODIFIED="1790179395137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
   </component>
 </project>
